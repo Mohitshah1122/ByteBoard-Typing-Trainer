@@ -1,5 +1,5 @@
 # ByteBoard-Typing-Trainer
-# ByteBoard.CPP ![MIT License](https://img.shields.io/badge/license-MIT-green)
+#  ![MIT License](https://img.shields.io/badge/license-MIT-green)
 
 ByteBoard is a simple and effective **C++ typing practice tool** that helps users improve their typing speed and accuracy. It provides random sentences from a `sentences.txt` file and evaluates performance using metrics like **Words Per Minute (WPM)**, **accuracy**, and **error count**. Users can also earn a certificate for high performance!
 
@@ -56,5 +56,5 @@ Follow the on-screen instructions and start typing!
 This project is licensed under the MIT License.
 
 # Author
-    Mohit U Shah.
+    **Mohit U Shah.**
     
