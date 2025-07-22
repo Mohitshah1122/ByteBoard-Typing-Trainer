@@ -132,7 +132,7 @@ void ByteBoard::calculateResults() {
     cout << "Accuracy         : " << fixed << setprecision(2) << accuracy << "%\n";
     cout << "Errors           : " << errors << "\n";
 
-    cout << "\n Congratulations, " << userName << ;
+    cout << "Congratulations:" << userName;
     cout << "Note: Earn a certificate by reaching 60 WPM or more!\n";
 
     if (wpm >= 60) {
