@@ -55,6 +55,6 @@ Follow the on-screen instructions and start typing!
 📜 License
 This project is licensed under the MIT License.
 
-# Author
-    **Mohit U Shah.**
+ # Author
+**Mohit U Shah.**
     
